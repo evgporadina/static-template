@@ -1,4 +1,4 @@
-title: Шаблон Документации
+title: Техническая документация BioSmart
 href: index.yaml
 
 analytics:
@@ -28,7 +28,10 @@ navigation:
       - type: 'controls'
 
 items:
-  - name: Помощь
+  - name: Вопросы и ответы (FAQ)
     href: help.md
-  - name: Правила
-    href: rules.md
+  - name: Документация
+    href: documentation.md
+  - name: База знаний
+    href: base.md
+  
